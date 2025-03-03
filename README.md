@@ -21,3 +21,6 @@ Tento soubor můžete importovat do Google Kalendáře:
 - Vyberte CSV soubor z tohoto repozitáře
 - Cílový kalendář bude F1 2025
 - Klikněte na Importovat
+
+If you want, you can support me
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EUGYSR6Y6VLV2)
